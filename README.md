@@ -1,4 +1,4 @@
-### Hi there 👋
+### Testing to see if this is the same as *Jupyter*
 
 <!--
 **hscotthinton/hscotthinton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
